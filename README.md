@@ -1,6 +1,6 @@
 For now, i am only publishing binary file, as i havent got my grade from this course yet.
 
-#Maticová kalkulačka
+# Maticová kalkulačka
 
 Vytvořte aplikaci implementující maticovou kalkulačku.
 
