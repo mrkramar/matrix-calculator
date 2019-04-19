@@ -4,7 +4,7 @@ For now, i am only publishing binary file, as i havent got my grade from this co
 
 Vytvořte aplikaci implementující maticovou kalkulačku.
 
-Kalkulačka musí implementovat:
+### Kalkulačka musí implementovat:
 
 práci s maticemi různé velikosti
 
@@ -20,7 +20,7 @@ funkce pro výpočet determinantu, určení hodnosti, Gaussova eliminační meto
 
 proměnné (uložení matice do proměnné, načítání matice ze vstupu, využití proměnné ve výpočtu)
 
-Použití polymorfismu (doporučeně)
+### Použití polymorfismu (doporučeně)
 
 typ matice: proměnná, řídká (mapa, list) vs. hustá (2D pole)
 
@@ -28,7 +28,7 @@ operace: sčítání, odčítání, násobení, ...
 
 varianta GEMu: klasická, s komentářem
 
-Ukázka běhu programu (není závazná):
+### Ukázka běhu programu (není závazná):
 
 SCAN X[3][3]
 
