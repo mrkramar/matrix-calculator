@@ -1,5 +1,9 @@
 # MATRIX CALCULATOR
 
+## Usage
+
+`make all`, then `make run`.
+
 ## Matrices implementation:
 
 	Matrices can be saved either as dense or sparse.
