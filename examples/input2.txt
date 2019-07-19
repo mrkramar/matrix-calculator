@@ -1,0 +1,13 @@
+scan a 5 5
+1 2 3 4 5
+5 4 3 2 1
+7 5 4 3 2
+7 8 4 3 2
+1 7 4 3 6
+
+rank a
+b = inverse a
+print b
+
+y = gem a
+print y

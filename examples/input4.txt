@@ -1,0 +1,4 @@
+scan i 3 3
+1 1 1 6 5 4 13 10 8
+b = inverse i
+print b

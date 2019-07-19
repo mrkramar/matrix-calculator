@@ -1,6 +1,6 @@
-# MATRIX CALCULATOR
+MATRIX CALCULATOR
 
-## Matrices implementation:
+Matrices implementation:--------------------------------------------------------------------------------------
 
 	Matrices can be saved either as dense or sparse.
 	Sparse matrix is matrix with more than half elements that are zeroes
@@ -9,9 +9,9 @@
 	Dense matrix is represented by 2D array.
 
 
-## Calculator implements:
+Calculator implements: --------------------------------------------------------------------------------------
 
-### Saving matrices to variables:
+Saving matrices to variables:
 
 	Matrices can be assigned to random string variable and later accesed with its name.
 	Example:
@@ -22,7 +22,7 @@
 		...
 	They can be overwritten or deleted by command delete VAR or delete all, which deletes whole memory
 
-### Matrix operations:
+Matrix operations:
 
 	Matrix addition, subtraction, multiplication
 		If matrices have illegal dimensions, exception is thrown. 
@@ -67,13 +67,11 @@
 			determinant d
 
 	Rank
-
 		Uses gauss elimination to find rank of matrix
 		Example:
 			rank c
 
-### Exceptions:
-
+Exceptions:
 	Program implements two types of exceptions:
 
 		illegalDimensionException - when multiplying incompatibile matrices

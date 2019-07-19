@@ -1,0 +1,18 @@
+scan a 3 3
+1 2 3
+4 5 6
+7 8 9
+
+scan b 3 3
+9 8 7
+6 5 4
+3 2 1
+
+c = a + b
+print c
+
+e = a * c
+print e
+
+x = 8 * e
+print x
